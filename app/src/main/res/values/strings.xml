@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Mad Level 1 Task 1</string>
+    <string name="app_name">Reminders</string>
+
+    <string name="new_reminder">New reminder text</string>
+    <string name="enter_new_reminder">Give a reminder</string>
+    <string name="add">ADD</string>
+    <string name="reminder_added">Reminder added!</string>
+    <string name="no_empty_reminder">You must fill in the input field!</string>
 </resources>
